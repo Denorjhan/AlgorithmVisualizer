@@ -11,7 +11,7 @@ class TypeWriterC extends Component {
                 <span className="badge badge-dark">
                 <Typewriter
                     options={{
-                        strings: ['Graph Algorithms', 'Sorting Algorithms',"8 Queen"],
+                        strings: ['Path Finder', 'Sorting Algorithms',"Binary Search", 'Recursive Sorting Algorithms'],
                         autoStart: true,
                         loop: true,
                     }}
