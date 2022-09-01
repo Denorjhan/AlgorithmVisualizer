@@ -34,7 +34,7 @@ class Cards extends Component {
                        onChange={this.getData}
                    />
                </div>
-               <div className="p-xl-5"></div>
+               <div className="p-xl-5" color="secondary"></div>
                <div className="d-flex flex-wrap justify-content-center Cards p-lg-5" >
                    {
                        this.state.cards.filter((card) => card.title.toLowerCase().includes(this.state.filter.toLowerCase())||card.description.toLowerCase().includes(this.state.filter.toLowerCase())).map(card=>(
@@ -48,7 +48,7 @@ class Cards extends Component {
                    }
 
                </div>
-               <div className="p-xl-5 bg-primary"></div>
+               <div className="p-xl-5 bg-primary" color="secondary"></div>
            </React.Fragment>
         );
     }
