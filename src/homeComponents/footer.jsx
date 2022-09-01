@@ -7,7 +7,7 @@ class Footer extends Component {
             <footer class="page-footer font-small special-color-dark pt-4 ">
 
                 <div className='flex-wrap' style={{textAlign:"center"}}>
-                    <div className='m-2'><GitHubButton href="https://github.com/Denorjhan" data-show-count="true" aria-label="Follow @Denorjhan on GitHub">Follow @Denorjhan</GitHubButton></div>
+                    <div className='m-2'><GitHubButton href="https://github.com/Denorjhan" data-show-count="false" aria-label="Follow @Denorjhan on GitHub">Follow @Denorjhan</GitHubButton></div>
                 </div>
 
                 <div class="footer-copyright text-center py-3">© 2022 Copyright:
