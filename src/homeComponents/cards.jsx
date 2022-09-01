@@ -48,7 +48,7 @@ class Cards extends Component {
                    }
 
                </div>
-               <div className="p-xl-5 bg-primary" color="secondary"></div>
+               <div className="p-md-5 Cards"></div>
            </React.Fragment>
         );
     }
