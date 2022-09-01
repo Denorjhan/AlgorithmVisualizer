@@ -33,7 +33,7 @@ export function getDetails(){
        {
            id:9,
            title:"Binary Search",
-           description:"Binary search is an efficient algorithm for finding an item from a sorted list of item",
+           description:"Binary search is an efficient algorithm for finding an item from a sorted list of items",
            route:"/binarysearch",
            img:binSearch
        }

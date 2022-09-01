@@ -9,7 +9,7 @@ class Greet extends Component {
                 </h1>
                 <hr className="dropdown-divider"/>
                 <h1 className="display-5">
-                    Visualize algorithms for a better understanding
+                    Visualize Algorithms For A Better Understanding
                 </h1>
             </div>
         );
